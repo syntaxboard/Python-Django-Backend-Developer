@@ -5,11 +5,7 @@
 > www.syntaxboard.com/contactus
 
 
-### Program Details 
 
-* Professional Python Django Backend Developer Training Program.
-* 27 Day Course with extensive examples and detailed code sessions, geared towards beginners
-* Multiple Assignments and in-class code design and solutions  
 
 ### Core Python (14 Days)
 #### Language
