@@ -1,4 +1,4 @@
-# Python-Django-Backend-Developer (Duration 27 Days)
+# Python-Django-Backend-Developer 
 > Syntaxboard LLC
 
 ## Program Details 
